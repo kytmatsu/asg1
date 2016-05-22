@@ -1,0 +1,12 @@
+/*
+Kyle Matsumoto
+kytmatsu
+CMPS012B
+10/22/14
+This is the README for asg1.
+*/
+
+
+Files being submitted are README, Makefile, and BusinessSearch.java.
+Special Notes. to get this program to work correctly I initiated a global variable that has a limit of 100 array slots. Anything greater than 100 will most likely make this program crash.
+Also Spelling has to be perfect including upper and lowercase.
